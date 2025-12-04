@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ビビビ",
+  "base_artist": "百鬼あやめ",
+  "createdAt": "2025-12-04T08:43:12.834409Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ビビビ",
+      "artist": "百鬼あやめ",
+      "has_synced": true,
+      "path": "select/01_ビビビ_百鬼あやめ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ビビビ",
+      "artist": "百鬼あやめ",
+      "has_synced": false,
+      "path": "select/pl_01_ビビビ_百鬼あやめ.txt"
+    }
+  ]
+}
